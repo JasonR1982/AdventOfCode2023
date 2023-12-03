@@ -57,7 +57,7 @@ def main():
             right = 0
             aboveLeft = 0
             aboveRight = 0
-            belowLeft
+            belowLeft = 0
             belowRight = 0
             if i.isdigit() or i == "." or i =="\n": #keep moving for anything that's not a symbol
                 columnCount +=1
