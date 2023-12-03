@@ -55,8 +55,10 @@ def main():
         for i in line:
             left = 0
             right = 0
-            above = 0
-            below = 0
+            aboveLeft = 0
+            aboveRight = 0
+            belowLeft
+            belowRight = 0
             if i.isdigit() or i == "." or i =="\n": #keep moving for anything that's not a symbol
                 columnCount +=1
                 #print(i,end="") #testing for finding special characters
